@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! bem? 👋
 
-<!--
-**miguelhdasilva/miguelhdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Miguel Henrique** !
 
-Here are some ideas to get you started:
+Atualmente estou aprendendo sobre : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ 
+E também sobre : 
+
+ ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+:male_sign:
